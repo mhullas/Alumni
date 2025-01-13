@@ -1,0 +1,15 @@
+section {
+    background: none;
+}
+.slider_section .carousel-indicators li {
+    background-color: #ffffff;
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    
+}
+.slider_section .carousel-indicators li.active {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+}
